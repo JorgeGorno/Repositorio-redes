@@ -1,21 +1,21 @@
 ```mermaid
 classDiagram
     class Libro {
-        +String titulo
-        +String autores
-        +String año
+        +Titulo_libro titulo
+        +Autor_libro autores
+        +Año_estreno año
     }
 
     class Miembro {
-        +String Nombre
-        +String Apellido
-        +String Libro prestado
+        +Nombre Nombre
+        +Apellido Apellido
+        +Libro tomado: fall of titans
     }
 
     class bibliotecario {
-        +String Jorge
-        +String Librero
-        +String Ocupado
+        +Nombre Jorge
+        +Ocupacion Librero
+        +Estado Ocupado
     }
 
     class biblioteca {

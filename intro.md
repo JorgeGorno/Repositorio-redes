@@ -3,6 +3,12 @@ classDiagram
     class Libro {
         +String titulo
         +String autores
-        +String isbn
-        +boolean isAvailable()
+        +String año
+    }
+
+classDiagram
+    class Miembro {
+        +String Nombre
+        +String Apellido
+        +String Libro prestado
     }

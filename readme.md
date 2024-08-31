@@ -6,5 +6,12 @@ Clases del curso de redes de Terciario Urquiza 2024
 
 Esta es una tabla sencilla
 
-1.
-|
+|   lista de comidas   |   lista de bebidas |
+|------------|----------|
+|   asado   |   agua  |
+|   hamburguejas al vapor   |   jugo  |
+|   ñoquis    |  coca   |
+|   pizza   |   te  |
+|   sushi   |  cafe   |
+|   milanesa   |   soda  |
+|   suprema   |   vino  |
